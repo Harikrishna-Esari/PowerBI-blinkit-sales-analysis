@@ -105,7 +105,7 @@ Performed using **Power Query**:
 
 ## 📸 Screenshots  
 
-![image alt]{https://github.com/Harikrishna-Esari/PowerBI-blinkit-sales-analysis/blob/6bc2c5ab1737213dc6b3fe6b2134fcb6c607bc7b/Blinkiy_dashboard_screenshot.png}
+![image Alt](https://github.com/Harikrishna-Esari/PowerBI-blinkit-sales-analysis/blob/b29c7dcd7e0168c869654791467cb70df3a7107d/Blinkiy_dashboard_screenshot.png)
 
 ---
 ## 🏁 Conclusion  
