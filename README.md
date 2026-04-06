@@ -104,7 +104,7 @@ Performed using **Power Query**:
 ---
 
 ## 📸 Screenshots  
-_Add your dashboard screenshots here_
+![Dashboard](https://github.com/your-username/repo-name/blob/main/Blinkiy_dashboard_screenshot.png)
 
 ---
 ## 🏁 Conclusion  
