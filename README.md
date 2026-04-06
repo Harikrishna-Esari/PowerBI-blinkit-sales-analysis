@@ -103,7 +103,7 @@ Performed using **Power Query**:
 
 ---
 
-## 📸 Screenshots  
+## 📸 Dashboard Screenshots 
 
 ![image Alt](https://github.com/Harikrishna-Esari/PowerBI-blinkit-sales-analysis/blob/b29c7dcd7e0168c869654791467cb70df3a7107d/Blinkiy_dashboard_screenshot.png)
 
